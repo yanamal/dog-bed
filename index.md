@@ -2,7 +2,7 @@
 
 Or, if that sequence of nouns is too hard to parse, a tutorial for making a bed for dogs which is both donut-shaped and also resembles an animal.
 
-<details open>
+<details markdown="1"  open>
   <summary>
     Materials
   </summary>
