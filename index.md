@@ -15,7 +15,7 @@ This bed has two zippers so you can take out the three internal cushions and was
 <details markdown="1">
   <summary markdown="1">
     
-  &#9312; About 3 yars of **lining fabric** - This fabric will be used inside the bed for the three removable cushions that contain all the stuffing.
+  &#9312; About 3 yards of **lining fabric** - This fabric will be used inside the bed for the three removable cushions that contain all the stuffing.
   
   </summary>
 
@@ -27,20 +27,68 @@ This bed has two zippers so you can take out the three internal cushions and was
   
 </details>
 
+<details markdown="1">
+  <summary markdown="1">
+    
   &#9313; About 3 yards of **fabric for the main bed surface**
-  
+
+  </summary>
+</details>
+
+<details markdown="1">
+  <summary markdown="1">
+    
   &#9314; About 1 yard of **non-slip fabric for bottom of the bed**
   
+  </summary>
+</details>
+
+<details markdown="1">
+  <summary markdown="1">
+
   &#9315; One really long **separating zipper** (around 100-110 inches long)
-  
+    
+  </summary>
+</details>
+
+<details markdown="1">
+  <summary markdown="1">
+
   &#9316; One **shorter zipper** - at least 24 inches long, and it doesn't have to be a separating zipper.
-  
-  &#9317; **Fiber fill** (stuffing) - I think I ended up using a bit over 5 lbs of fiber fill on this bed
-  
+    
+  </summary>
+</details>
+
+<details markdown="1">
+  <summary markdown="1">
+
+  &#9317; At least 5 lbs of **Fiber fill** (stuffing)
+    
+  </summary>
+</details>
+
+<details markdown="1">
+  <summary markdown="1">
+
   &#9318; (Optional?) A 36x24 piece of **high-density cushion foam**, 1 inch thick
-  
+    
+  </summary>
+</details>
+
+<details markdown="1">
+  <summary markdown="1">
+
   &#9319; (Highly optional) **A "helpful" puppy** who really wants to be involved
+    
+  </summary>
+</details>
+
+<details markdown="1">
+  <summary markdown="1">
+
+  &#9320; (Not pictured) Additional odds and ends for the animal face - this really depends on what animal you are making and how you want to make it! 
   
-  &#9320; (Not pictured) Additional odds and ends for the animal face - this really just depends on what animal you are making and how you want to make it! 
-  
+  </summary>
+</details>
+
 
