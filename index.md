@@ -8,6 +8,9 @@ This bed has two zippers so you can take out the three internal cushions and was
 
 ## Materials
 
+![materials](assets/images/materials/PXL_20240207_230657895.jpg)
+![materials](assets/images/materials/PXL_20240209_174101749.jpg)
+![materials](assets/images/materials/PXL_20240207_231021546.MP.jpg)
 
 <details markdown="1">
   <summary markdown="1">
