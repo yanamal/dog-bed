@@ -33,6 +33,13 @@ This bed has two zippers so you can take out the three internal cushions and was
   &#9313; About 3 yards of **fabric for the main bed surface**
 
   </summary>
+
+  I used a slightly-stretchy fabric for this particular dog bed, it's almost like a french terry but with two colors of yarn on the terry side (black and white). 
+  
+  After that experience, **I highly recommend using a non-stretchy fabric** for this part of the bed. Attaching the long separating zipper was a small nightmare, because the fabric really wanted to stretch out and get all wonky while I was sewing. I ended up applying liberal amounts of basting glue (in addition to the usual pins and fabric clips) before sewing.
+
+  For other similar beds, I've used minky and/or fleece fabric. Actually, a lot of stuffed dog toys "minky swirl fabric" and I found that dogs really like that fabric on a dog bed, too.
+
 </details>
 
 <details markdown="1">
@@ -41,6 +48,13 @@ This bed has two zippers so you can take out the three internal cushions and was
   &#9314; About 1 yard of **non-slip fabric for bottom of the bed**
   
   </summary>
+
+  You can probably also just use the same fabric as you're using for the main bed surface, if you don't need it to be super non-slip and you're not worried about it getting super dirty from the floor.
+  
+  You really only need a piece a little bigger than 36" by 24", so if you buy a yard (which is 36") you may have a lot left over, depending on the width of the fabric.
+
+  I was going to use the orange textured fabric for this at first. But then I bough the gray non-woven fabric in the second picture, it's actually meant to go under a rug to keep it from slipping around. (TODO: find out how it stands up to being in a washing machine.)
+  
 </details>
 
 <details markdown="1">
@@ -49,6 +63,9 @@ This bed has two zippers so you can take out the three internal cushions and was
   &#9315; One really long **separating zipper** (around 100-110 inches long)
     
   </summary>
+
+ This zipper will go around the bottom of the donut part. It has to be a separating zipper so it can unzip all the way and release the donut cushion.
+  
 </details>
 
 <details markdown="1">
@@ -57,14 +74,20 @@ This bed has two zippers so you can take out the three internal cushions and was
   &#9316; One **shorter zipper** - at least 24 inches long, and it doesn't have to be a separating zipper.
     
   </summary>
+
+ This zipper will open up a separate compartment for the bottom cushion.
+  
 </details>
 
 <details markdown="1">
   <summary markdown="1">
 
-  &#9317; At least 5 lbs of **Fiber fill** (stuffing)
+  &#9317; At least 5 lbs of **fiber fill** (stuffing)
     
   </summary>
+
+You can probably fit a lot more than 5 lbs of stuffing into these cushions, but 5 should be mostly enough. I think I used a little more for this particular bed.
+  
 </details>
 
 <details markdown="1">
@@ -73,14 +96,24 @@ This bed has two zippers so you can take out the three internal cushions and was
   &#9318; (Optional?) A 36x24 piece of **high-density cushion foam**, 1 inch thick
     
   </summary>
+
+This goes on the bottom of the bottom cushion, and then I put some of the fiber fill on top.
+
+I'm not sure how much of a difference the foam really makes, but I've seen how flat and condensed the fiber fill in a donut bed can get without any foam under it, so I decided to be fancy and have both foam and fiber fill.
+  
 </details>
 
 <details markdown="1">
   <summary markdown="1">
 
-  &#9319; (Highly optional) **A "helpful" puppy** who really wants to be involved
+  &#9319; (Highly optional) **A "helpful" puppy** who really wants to be involved (and other occasional dog friends)
     
   </summary>
+
+One could argue that the puppy is not a *material*, per se. But he really really tried hard to integrate himself into the bed throughout the process.
+
+One could also argue that a dog or puppy is not strictly optional, if you're making a dog bed. What's optional is how involved the dog is in the making process.
+  
 </details>
 
 <details markdown="1">
@@ -89,6 +122,11 @@ This bed has two zippers so you can take out the three internal cushions and was
   &#9320; (Not pictured) Additional odds and ends for the animal face - this really depends on what animal you are making and how you want to make it! 
   
   </summary>
+
+For this bed, I ended up using some white fabric for the face and feet, scraps of black fabric for the eyes, and scraps of red fabric for the mouth.
+
+I also used some weird padding? stiffening? fabric inside the ear edges to keep them from being too floppy. I can't figure out what it's called and where I got it, though.
+  
 </details>
 
 
