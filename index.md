@@ -10,7 +10,7 @@ This bed has two zippers so you can take out the three internal cushions and was
 
 
 <details markdown="1">
-  <summary>
+  <summary markdown="1">
     
   &#9312; About 3 yars of **lining fabric** - This fabric will be used inside the bed for the three removable cushions that contain all the stuffing.
   
