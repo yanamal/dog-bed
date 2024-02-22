@@ -1,5 +1,11 @@
 # Animal Donut Dog Bed Tutorial
 
+<div style="position: fixed;transform: translateX(-110%);">
+<button onclick="for(d of document.getElementsByTagName('details')) {d.setAttribute('open', '')}" style="display: block;">Expand all</button>
+  
+<button onclick="for(d of document.getElementsByTagName('details')) {d.removeAttribute('open')}">Collapse all</button>
+</div>
+
 Or, if that sequence of nouns is too hard to parse: A tutorial for making a bed for dogs which is both donut-shaped and also resembles an animal.
 
 <details markdown="1">
@@ -369,10 +375,10 @@ OK, now turn the fabric inside out through the gap, so the stitching is on the i
 
 Invite your canine testing team to test whether you've put in enough stuffing
 
-<img src="assets/images/cushions/bottom/PXL_20240209_001626948.MP.jpg" height="180"/>
-<img src="assets/images/cushions/bottom/PXL_20240209_002206297.MP.jpg" height="180"/>
-<img src="assets/images/cushions/bottom/PXL_20240209_002134733.jpg" height="180"/>
-<img src="assets/images/cushions/bottom/PXL_20240210_164918665.jpg" height="180"/>
+<img src="assets/images/cushions/bottom/PXL_20240209_001626948.MP.jpg" height="170"/>
+<img src="assets/images/cushions/bottom/PXL_20240209_002206297.MP.jpg" height="170"/>
+<img src="assets/images/cushions/bottom/PXL_20240209_002134733.jpg" height="170"/>
+<img src="assets/images/cushions/bottom/PXL_20240210_164918665.jpg" height="170"/>
 
 At some point, when you're satisfied with the amount of stuffing, you should sew the cushion closed. I didn't actually do this to any of the cushions until the very end, though. That way I could adjust the stuffing as I tested the bed throughout the process.
 
