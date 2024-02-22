@@ -296,7 +296,7 @@ I also used something that I'm pretty sure is called "3D mesh spacer fabric" ins
 
 </summary>
 
-Unroll and flatten out your foam cushion. For this step, the helpful puppy may actually be helpful!
+Unroll and flatten out your foam cushion. The helpful puppy may actually be helpful for this part!
 
 <img src="assets/images/cushions/bottom/PXL_20240208_153047877.MP.jpg" height="300"/>
 
@@ -304,7 +304,7 @@ Round the corners to get approximately this shape:
 
 <img src="assets/images/cushions/bottom/PXL_20240208_164512239.jpg" height="300"/>
 
-I like to cut off one corner first, then use it to mark the other corners, both on the foam cushion and on the fabric that's going to go around it.
+I like to cut off one corner first, then use it to mark the other corners, both on the foam cushion and (later on) on the fabric that's going to go around it.
 
 <img src="assets/images/cushions/bottom/PXL_20240208_164152155.jpg" height="300"/>
 
@@ -312,7 +312,33 @@ I like to cut off one corner first, then use it to mark the other corners, both 
 <summary markdown="1">Nerdy details on how I got this particular corner shape   
 </summary>
 
-TODO
+Because I was worried about conserving the main bed surface fabric, I wanted to ensure that the total perimeter of the cushion would be around 100". That way, the donut perimeter/length could also be 100", and I was pretty sure that I could make that work.
+
+The perimeter of a 24" x 36" rectangle of foam is `(24+36)*2 = 120`. So I needed to lose a total of 20", or 5" per corner.
+
+Let's consider a square, and a circle that's inscribed inside the square. Essentially, this circle is what would happen if we rounded the square's corners "all the way". 
+
+If the square's side length is `L`, then its perimeter is `4*L`. The circle's perimeter (also known as circumference) is `π*L`, but we can approximate π to be 3 - it's close enough, considering the general imprecision of working with fabric.
+
+So the perimeter of the circle is about 3/4 of the perimeter of the square. In other words, when we round corners "all the way down" using a roughly circular shape, we reduce the length by 1/4.
+
+So if I need to reduce a corner by 5", the bit of the corner that I'm rounding should have a total length of 20". 
+
+And then I can cut off a roughly circular shape, to make the reduced length of the curved circular bit roughly 15".
+
+So I measured out a total of 20" along the corner, with 8" on the shorter side and 12" on the longer side.
+
+<img src="assets/images/cushions/bottom/measuring/PXL_20240208_162421658.jpg" height="300"/>
+
+You may notice that 8 is not equal to 12, so now it would be difficult to draw an actual (non-stretched-out) circle on that corner. Again, that kind of precision doesn't matter a whole lot when working with things that are squishy and stretchy and imprecise. We can just fudge the exact shape of the corner so it's the right length. But the math ensures that we are very close by the time we start fudging.
+
+You can see that I got pretty close to 15" on the curved corner bit:
+
+<img src="assets/images/cushions/bottom/measuring/PXL_20240208_163412978.jpg" height="300"/>
+
+And the total perimeter also ended up quite close to the 100" I was going for:
+
+<img src="assets/images/cushions/bottom/measuring/PXL_20240208_172009581.jpg" height="300"/>
   
 </details>
 
@@ -328,16 +354,16 @@ Cut out a piece of lining fabric that's 36" by 48" (so twice as wide as the cush
 
 <img src="assets/images/cushions/bottom/PXL_20240208_175923119.jpg" height="300"/>
 
-Sew it together, leaving a gap that's big enough to insert the foam cushion through. (Probably bigger than the one I left) Then cut off the corners so they don't get in the way and make things lumpy
+Sew it together, leaving a gap that's big enough to insert the foam cushion through (probably bigger than the one I left). Then cut off the corners so they don't get in the way and make things lumpy
 
 <img src="assets/images/cushions/bottom/PXL_20240208_234608792.MP.jpg" height="300"/>
 
-Tip: If your puppy managed to leave a really stinky stain on the fabric piece before you even started sewing, now is a good time to give it a wash, before you start stuffing. Or you could go out of order and sew all the lining fabric pieces together first and wash them all together. Especially if you think that none of them will come out of the creation process particularly clean.
+Tip: If your puppy managed to leave a really stinky stain on the fabric piece before you even started sewing, now is a good time to give it a wash, before you start stuffing. Or you could go out of order and sew all the lining fabric pieces together before doing any stuffing, and wash them all together. Especially if you think that none of them will come out of the creation process particularly clean.
 
 <img src="assets/images/cushions/bottom/PXL_20240208_171413445.jpg" height="300"/>
 <img src="assets/images/cushions/bottom/PXL_20240208_171421029.jpg" height="300"/>
 
-OK, now turn the fabric inside out through the gap, so the stitching is on the inside, insert the foam cushion, and then stuff lots of stuffing on top of the foam.
+OK, now turn the fabric inside out through the gap, so the stitching is on the inside. Insert the foam cushion, and then stuff lots of stuffing on top of the foam.
 
 <img src="assets/images/cushions/bottom/PXL_20240210_164852430.jpg" height="300"/>
 
@@ -348,7 +374,7 @@ Invite your canine testing team to test whether you've put in enough stuffing
 <img src="assets/images/cushions/bottom/PXL_20240209_002134733.jpg" height="180"/>
 <img src="assets/images/cushions/bottom/PXL_20240210_164918665.jpg" height="180"/>
 
-At some point, when you're satisfied with the amount of stuffing, you should sew the cushion closed. I didn't actually do this to any of the cushions until the very end, so I could adjust the stuffing as I tested the bed.
+At some point, when you're satisfied with the amount of stuffing, you should sew the cushion closed. I didn't actually do this to any of the cushions until the very end, though. That way I could adjust the stuffing as I tested the bed throughout the process.
 
 </details>
 
