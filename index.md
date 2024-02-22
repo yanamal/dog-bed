@@ -1,6 +1,6 @@
 # Animal Donut Dog Bed Tutorial
 
-Or, if that sequence of nouns is too hard to parse, a tutorial for making a bed for dogs which is both donut-shaped and also resembles an animal.
+Or, if that sequence of nouns is too hard to parse: A tutorial for making a bed for dogs which is both donut-shaped and also resembles an animal.
 
 This bed has two zippers so you can take out the three internal cushions and wash the outer shell!
 
@@ -24,6 +24,23 @@ This bed has two zippers so you can take out the three internal cushions and was
   I think using stretchy fabric here helps achieve the "overstuffed" look for the bed. When the lining fabric stretches, the stuffing is then less constricted by it, and still has a chance to push directly against the outside of the bed.
 
   I like it when the fabric has a woven-in or knitted-in striped or rectangular pattern, like the fabric I used in this case. It's a super helpful shortcut for measuring and cutting the right shape, since I can just cut along the stripe! Especially when I'm trying to cut out really big rectangular pieces in super stretchy fabric which is really hard to measure consistently as it stretches!
+  
+  <details markdown="1">
+    <summary markdown="1">
+      
+      **Purchasing tips and ideas**
+
+    </summary>
+
+    My newest favorite place for finding random cheap fabrics is Walmart's "Value Fabrics" aisle. It's basically an assortment of random fabric remnants at different length and price tiers. Depending on the fabrics, you get cuts of 2 yards for $4, 4 yards for $6, and 3 yards for $8. 
+
+    The lining fabric I used for this bed was 4 yards for $6!
+
+    You can order these online, but of course you'll just get a random selection which may or may not be worthwhile. So I prefer to actually go into a Walmart and see what I can find!
+
+    I've also ordered "poly interlock lining fabric" online from both Walmart and Amazon at around $7-$8 for 3 yards. It works well, but it's only stretchy in one direction (also known as 2-way stretch, because of course jargon is more fun when it's counter-intuitive). So you have to be strategic about which direction you cut it in, especially for the donut part (you want it to stretch widthwise, not lengthwise).
+
+  </details>
   
 </details>
 
@@ -125,7 +142,7 @@ One could also argue that a dog or puppy is not strictly optional, if you're mak
 
 For this bed, I ended up using some white fabric for the face and feet, scraps of black fabric for the eyes, and scraps of red fabric for the mouth.
 
-I also used some weird padding? stiffening? fabric inside the ear edges to keep them from being too floppy. I can't figure out what it's called and where I got it, though.
+I also used something that I'm pretty sure is called "3D mesh spacer fabric" inside the ear edges to keep the ears from being too floppy.
   
 </details>
 
