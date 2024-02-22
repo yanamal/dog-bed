@@ -25,21 +25,21 @@ This bed has two zippers so you can take out the three internal cushions and was
 
   I like it when the fabric has a woven-in or knitted-in striped or rectangular pattern, like the fabric I used in this case. It's a super helpful shortcut for measuring and cutting the right shape, since I can just cut along the stripe! Especially when I'm trying to cut out really big rectangular pieces in super stretchy fabric which is really hard to measure consistently as it stretches!
   
-  <details markdown="1">
-    <summary markdown="1">
+<details markdown="1">
+<summary markdown="1">
+  
+  **Purchasing tips and ideas**
       
-      **Purchasing tips and ideas**
+</summary>
+    
+  My newest favorite place for finding random cheap fabrics is Walmart's "Value Fabrics" aisle. It's basically an assortment of random fabric remnants at different length and price tiers. Depending on the fabrics, you get cuts of 2 yards for $4, 4 yards for $6, and 3 yards for $8. 
 
-    </summary>
+  The lining fabric I used for this bed was 4 yards for $6!
 
-    My newest favorite place for finding random cheap fabrics is Walmart's "Value Fabrics" aisle. It's basically an assortment of random fabric remnants at different length and price tiers. Depending on the fabrics, you get cuts of 2 yards for $4, 4 yards for $6, and 3 yards for $8. 
+  You can order these online, but of course you'll just get a random selection which may or may not be worthwhile. So I prefer to actually go into a Walmart and see what I can find!
 
-    The lining fabric I used for this bed was 4 yards for $6!
-
-    You can order these online, but of course you'll just get a random selection which may or may not be worthwhile. So I prefer to actually go into a Walmart and see what I can find!
-
-    I've also ordered "poly interlock lining fabric" online from both Walmart and Amazon at around $7-$8 for 3 yards. It works well, but it's only stretchy in one direction (also known as 2-way stretch, because of course jargon is more fun when it's counter-intuitive). So you have to be strategic about which direction you cut it in, especially for the donut part (you want it to stretch widthwise, not lengthwise).
-
+  I've also ordered "poly interlock lining fabric" online from both Walmart and Amazon at around $7-$8 for 3 yards. It works well, but it's only stretchy in one direction (also known as 2-way stretch, because of course jargon is more fun when it's counter-intuitive). So you have to be strategic about which direction you cut it in, especially for the donut part (you want it to stretch widthwise, not lengthwise).
+  
   </details>
   
 </details>
