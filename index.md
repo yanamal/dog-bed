@@ -6,6 +6,7 @@
 <button onclick="for(d of document.getElementsByTagName('details')) {d.removeAttribute('open')}">Collapse all</button>
 </div>
 
+
 Or, if that sequence of nouns is too hard to parse: A tutorial for making a bed for dogs which is both donut-shaped and also resembles an animal.
 
 <details markdown="1">
@@ -403,4 +404,23 @@ At some point, when you're satisfied with the amount of stuffing, you should sew
 </details>
 
 
-
+<script>
+  for(i of document.getElementsByTagName('img')) {
+  i.addEventListener('click', function (e) {
+    let enlarged_copy = e.target.cloneNode()
+    enlarged_copy.setAttribute('style', 'width:100%;height:100%;')
+    enlarged_copy.setAttribute('class', 'enlarged')
+   
+    
+    e.target.style.display='none'
+    e.target.after(enlarged_copy)
+    
+    
+    enlarged_copy.addEventListener('click', function(e){
+      let original_node = e.target.previousElementSibling
+      original_node.style.removeProperty('display')
+      e.target.remove()
+    })
+  })
+}
+</script>
