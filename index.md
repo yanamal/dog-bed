@@ -359,16 +359,16 @@ Convince your puppy and his best friend to get off your lining fabric.
 
 Cut out a piece of lining fabric that's 36" by 48" (so twice as wide as the cushion will be). Fold it in half, and use the foam corner that your puppy didn't destroy to mark and pin where you will sew the two halves together.
 
-<img src="assets/images/cushions/bottom/PXL_20240208_175923119.jpg" height="300"/>
+<img src="assets/images/cushions/bottom/PXL_20240208_175923119.jpg" height="400"/>
 
 Sew it together, leaving a gap that's big enough to insert the foam cushion through (probably bigger than the one I left). Then cut off the corners so they don't get in the way and make things lumpy
 
-<img src="assets/images/cushions/bottom/PXL_20240208_234608792.MP.jpg" height="300"/>
+<img src="assets/images/cushions/bottom/PXL_20240208_234608792.MP.jpg" height="400"/>
 
 Tip: If your puppy managed to leave a really stinky stain on the fabric piece before you even started sewing, now is a good time to give it a wash, before you start stuffing. Or you could go out of order and sew all the lining fabric pieces together before doing any stuffing, and wash them all together. Especially if you think that none of them will come out of the creation process particularly clean.
 
-<img src="assets/images/cushions/bottom/PXL_20240208_171413445.jpg" height="300"/>
-<img src="assets/images/cushions/bottom/PXL_20240208_171421029.jpg" height="300"/>
+<img src="assets/images/cushions/bottom/PXL_20240208_171413445.jpg" height="400"/>
+<img src="assets/images/cushions/bottom/PXL_20240208_171421029.jpg" height="400"/>
 
 OK, now turn the fabric inside out through the gap, so the stitching is on the inside. Insert the foam cushion, and then stuff lots of stuffing on top of the foam.
 
