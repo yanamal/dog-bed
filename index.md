@@ -304,6 +304,52 @@ Round the corners to get approximately this shape:
 
 <img src="assets/images/cushions/bottom/PXL_20240208_164512239.jpg" height="300"/>
 
+I like to cut off one corner first, then use it to mark the other corners, both on the foam cushion and on the fabric that's going to go around it.
+
+<img src="assets/images/cushions/bottom/PXL_20240208_164152155.jpg" height="300"/>
+
+<details markdown="1">
+<summary markdown="1">Nerdy details on how I got this particular corner shape   
+</summary>
+
+TODO
+  
+</details>
+
+Try not to let your puppy destroy your canonical foam corner until you're done making the bed. But if he does, you do have three back-ups!
+
+<img src="assets/images/cushions/bottom/PXL_20240208_191343829.jpg" height="300"/>
+
+Convince your puppy and his best friend to get off your lining fabric.
+
+<img src="assets/images/cushions/bottom/PXL_20240208_173515523.jpg" height="300"/>
+
+Cut out a piece of lining fabric that's 36" by 48" (so twice as wide as the cushion will be). Fold it in half, and use the foam corner that your puppy didn't destroy to mark and pin where you will sew the two halves together.
+
+<img src="assets/images/cushions/bottom/PXL_20240208_175923119.jpg" height="300"/>
+
+Sew it together, leaving a gap that's big enough to insert the foam cushion through. (Probably bigger than the one I left) Then cut off the corners so they don't get in the way and make things lumpy
+
+<img src="assets/images/cushions/bottom/PXL_20240208_234608792.MP.jpg" height="300"/>
+
+Tip: If your puppy managed to leave a really stinky stain on the fabric piece before you even started sewing, now is a good time to give it a wash, before you start stuffing. Or you could go out of order and sew all the lining fabric pieces together first and wash them all together. Especially if you think that none of them will come out of the creation process particularly clean.
+
+<img src="assets/images/cushions/bottom/PXL_20240208_171413445.jpg" height="300"/>
+<img src="assets/images/cushions/bottom/PXL_20240208_171421029.jpg" height="300"/>
+
+OK, now turn the fabric inside out through the gap, so the stitching is on the inside, insert the foam cushion, and then stuff lots of stuffing on top of the foam.
+
+<img src="assets/images/cushions/bottom/PXL_20240210_164852430.jpg" height="300"/>
+
+Invite your canine testing team to test whether you've put in enough stuffing
+
+<img src="assets/images/cushions/bottom/PXL_20240209_001626948.MP.jpg" height="180"/>
+<img src="assets/images/cushions/bottom/PXL_20240209_002206297.MP.jpg" height="180"/>
+<img src="assets/images/cushions/bottom/PXL_20240209_002134733.jpg" height="180"/>
+<img src="assets/images/cushions/bottom/PXL_20240210_164918665.jpg" height="180"/>
+
+At some point, when you're satisfied with the amount of stuffing, you should sew the cushion closed. I didn't actually do this to any of the cushions until the very end, so I could adjust the stuffing as I tested the bed.
+
 </details>
 
 <details markdown="1">
