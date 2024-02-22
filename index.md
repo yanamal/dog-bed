@@ -66,7 +66,7 @@ This bed has two zippers so you can take out the three internal cushions and was
 
   </summary>
 
-  You can sometimes get away with 2 yards if you plan really carefully. I actually only had 2 yards of the fabric I used for this bed, and I made it work but I had to do some creative tiling!
+  You can sometimes get away with 2 yards if you plan really carefully. I actually only had 2 yards of the fabric I used for this bed. I made it work but I had to do some creative tiling!
   
   I used a slightly-stretchy fabric for this particular dog bed, it's almost like a french terry but with two colors of yarn on the terry side (black and white). 
   
@@ -256,7 +256,7 @@ So, what I did was:
 
 1. Start "temporarily" fostering a mama dog and her four 1-week-old puppies
 2. Keep fostering them all until the puppies were completely weaned and ready to be adopted
-3. Adopt the puppy that was my adult dog's clear favorite, and name hime Cow Boy (because he's a boy who is a cow, obviously)
+3. Adopt the puppy that was my adult dog's clear favorite, and name him Cow Boy (because he's a boy who is a cow, obviously)
 
 If you don't want to do all that, you could also [adopt Cow Boy's mom](https://www.shelterluv.com/embed/animal/66058274), whom I'm still fostering after more than a year!
 
@@ -282,15 +282,29 @@ I also used something that I'm pretty sure is called "3D mesh spacer fabric" ins
 
 ## The inner cushions
 
+![cushions](assets/images/cushions/PXL_20240210_165817127.jpg)
+
 <details markdown="1">
 <summary markdown="1">
-  
-### Step 1. The bottom
+
+### Step 1. The bottom  
+
+&nbsp;
+
+<img src="assets/images/cushions/bottom/PXL_20240210_164951738.jpg" height="300"/>
+<img src="assets/images/cushions/bottom/PXL_20240209_000144467.jpg" height="300"/>
 
 </summary>
+
+Unroll and flatten out your foam cushion. For this step, the helpful puppy may actually be helpful!
+
+<img src="assets/images/cushions/bottom/PXL_20240208_153047877.MP.jpg" height="300"/>
+
+Round the corners to get approximately this shape:
+
+<img src="assets/images/cushions/bottom/PXL_20240208_164512239.jpg" height="300"/>
+
 </details>
-
-
 
 <details markdown="1">
 <summary markdown="1">
