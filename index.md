@@ -1,10 +1,23 @@
+<details markdown="1">
+<summary markdown="1">
+
+Click here to expand!
+  
+</summary>
+
+I organized this tutorial in a hierarchical way, so you can get an overview before digging in, and so it's easier to skip parts that are irrelevant to you.
+
+Whenever you see one of these boxes with a triangle at the top, you can click to expand (or collapse) the contents.
+
+</details>
+
 # Animal Donut Dog Bed Tutorial
 
 Or, if that sequence of nouns is too hard to parse: A tutorial for making a bed for dogs which is both donut-shaped and also resembles an animal.
 
-This bed has two zippers so you can take out the three internal cushions and wash the outer shell!
-
 ![Monkey Bed](assets/images/finished/PXL_20240219_054512474.jpg)
+
+This bed has two zippers so you can take out the three internal cushions and wash the outer shell!
 
 ## Materials
 
@@ -226,7 +239,29 @@ I think you do want high-density or "cushion" foam. Medium density would probabl
 One could argue that the puppy is not a *material*, per se. But he really really tried hard to integrate himself into the bed throughout the process.
 
 One could also argue that a dog or puppy is not strictly optional, if you're making a dog bed. What's optional is how involved the dog is in the making process.
+
+<details markdown="1">
+<summary markdown="1">
   
+  **Puppy acquisition tips and ideas**
+      
+</summary>
+
+
+<img src="assets/images/PXL_20230121_001856376.PORTRAIT.jpg" alt="Digiorno" height="200"/>
+
+So, what I did was:
+
+1. Start "temporarily" fostering a mama dog and her four 1-week-old puppies
+2. Keep fostering them all until the puppies were completely weaned and ready to be adopted
+3. Adopt the puppy that was my adult dog's clear favorite, and name hime Cow Boy (because he's a boy who is a cow, obviously)
+
+If you don't want to do all that, you could also [adopt Cow Boy's mom](https://www.shelterluv.com/embed/animal/66058274), whom I'm still fostering after more than a year!
+
+Or adopt any dog - shelters are overflowing with them!
+
+</details>
+
 </details>
 
 <details markdown="1">
