@@ -1,3 +1,7 @@
+# Animal Donut Dog Bed Tutorial
+
+Or, if that sequence of nouns is too hard to parse: A tutorial for making a bed for dogs which is both donut-shaped and also resembles an animal.
+
 <details markdown="1">
 <summary markdown="1">
 
@@ -7,13 +11,11 @@ Click here to expand!
 
 I organized this tutorial in a hierarchical way, so you can get an overview before digging in, and so it's easier to skip parts that are irrelevant to you.
 
-Whenever you see one of these boxes with a triangle at the top, you can click to expand (or collapse) the contents.
+Whenever you see one of these boxes with a triangle at the top, you can (and probably should) click to expand the contents. Click again to collapse it.
+
+If you find any problems or have questions, feel free to [file an issue](https://github.com/yanamal/dog-bed/issues), since this is hosted on GitHub! Or let me know in some other way.
 
 </details>
-
-# Animal Donut Dog Bed Tutorial
-
-Or, if that sequence of nouns is too hard to parse: A tutorial for making a bed for dogs which is both donut-shaped and also resembles an animal.
 
 ![Monkey Bed](assets/images/finished/PXL_20240219_054512474.jpg)
 
@@ -276,5 +278,37 @@ For this bed, I ended up using some white fabric for the face and feet, scraps o
 I also used something that I'm pretty sure is called "3D mesh spacer fabric" inside the ear edges to keep the ears from being too floppy. I think it's similar to, but different from, "foam stabilizer" fabrics that people use to make fabric baskets and other things that need to hold their shape.
   
 </details>
+
+
+## The inner cushions
+
+<details markdown="1">
+<summary markdown="1">
+  
+### Step 1. The bottom
+
+</summary>
+</details>
+
+
+
+<details markdown="1">
+<summary markdown="1">
+  
+### Step 2. The donut
+
+</summary>
+</details>
+
+
+
+<details markdown="1">
+<summary markdown="1">
+  
+### Step 3. The head
+
+</summary>
+</details>
+
 
 
