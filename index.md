@@ -359,6 +359,13 @@ Convince your puppy and his best friend to get off your lining fabric.
 
 Cut out a piece of lining fabric that's 36" by 48" (so twice as wide as the cushion will be). Fold it in half, and use the foam corner that your puppy didn't destroy to mark and pin where you will sew the two halves together.
 
+<details>
+<summary> Shouldn't I make it a little bigger?</summary>
+
+It might make sense to add an inch or two to the dimensions of this piece, to account for both the thickness of the foam and potential additional surface area that will come from the stuffing. However, I usually don't bother, especially when the fabric I'm working with is so stretchy.
+  
+</details>
+
 <img src="assets/images/cushions/bottom/PXL_20240208_175923119.jpg" height="400"/>
 
 Sew it together, leaving a gap that's big enough to insert the foam cushion through (probably bigger than the one I left). Then cut off the corners so they don't get in the way and make things lumpy
@@ -390,7 +397,58 @@ At some point, when you're satisfied with the amount of stuffing, you should sew
   
 ### Step 2. The donut
 
+&nbsp;
+
+<img src="assets/images/cushions/donut/PXL_20240210_170138858.jpg" height="300"/>
+<img src="assets/images/cushions/donut/PXL_20240210_170140420.jpg" height="300"/>
+
 </summary>
+
+Cut out a piece of the lining fabric that's 24" wide and *about* 100-120 inches long. The actual length should be the same as the perimeter of your foam cushion, which will depend on how exactly you rounded the corners on the foam. 
+
+<img src="assets/images/cushions/donut/PXL_20240208_182323281.jpg" height="400"/>
+
+Pin and sew the two long sides together.
+
+<img src="assets/images/cushions/donut/PXL_20240208_183142975.jpg" height="400"/>
+<img src="assets/images/cushions/donut/PXL_20240208_185912340.jpg" height="400"/>
+
+Now you have a really long tube. Pull one end of the tube through the tube toward the other end. 
+
+<details>
+<summary>
+  What? That doesn't look right
+</summary>
+  
+This shape may seem weird, since this doesn't make the right kind of donut. However, it will become right once we turn it inside out after sewing. Or rather, we will turn it right side out so that all the seams are facing the inside. So yes, by the way, you should probably have been folding all that stuff right-side in. But also none of that matters a whole lot, since these cushions won't really be visible in day-to-day use.
+
+</details>
+
+<details>
+<summary>
+  Be careful not to twist it (maybe)
+</summary>
+
+It's pretty easy to accidentally twist the fabric a full turn while you're pulling it through if you're just lining up the seam with itself at the end. THough if you do accidentally twist it, it doesn't actually make a huge difference in the final shape of the bed. It just looks a bit weird if you look closely enough.
+
+</details>
+
+<img src="assets/images/cushions/donut/PXL_20240208_190040736.jpg" height="400"/>
+
+Pin and sew the two ends together, leaving a small opening so we can turn it inside out and stuff it.
+
+<img src="assets/images/cushions/donut/PXL_20240208_190245305.jpg" height="400"/>
+<img src="assets/images/cushions/donut/PXL_20240208_191128975.MP.jpg" height="400"/>
+
+Turn the whole thing inside out. Now it looks like a flat donut!
+
+<img src="assets/images/cushions/donut/PXL_20240208_191213006.jpg" height="400"/>
+
+Stuff the donut! I was glad that I left the hole open for this one, because I ended up putting it a lot more stuffing once I saw how it looks in the bed.
+
+<img src="assets/images/cushions/donut/PXL_20240210_170124207.jpg" height="400"/>
+
+
 </details>
 
 
@@ -399,6 +457,8 @@ At some point, when you're satisfied with the amount of stuffing, you should sew
 <summary markdown="1">
   
 ### Step 3. The head
+
+&nbsp;
 
 </summary>
 </details>
