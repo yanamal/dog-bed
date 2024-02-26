@@ -527,7 +527,7 @@ I sketched out where the mouth will go on the head sphere:
 <img src="assets/images/cushions/head/PXL_20240213_172545233.jpg" height="300"/>
 
 <details markdown="1">
-<summary> Even more nerdy details on how exactly I decided where the mouth should go 
+<summary  markdown="1"> Even more nerdy details on how exactly I decided where the mouth should go 
 </summary>
 
 First, I usually arrange the head "sphere" so that one of the baseball pieces ends up being the bottom and two sides, and the other piece is the top and front/back.
@@ -536,7 +536,7 @@ I decided that I want the bottom of the mouth to just touch the intersection bet
 
 <img src="assets/images/cushions/head/face-height.jpg" height="300"/>
 
-Why 8.5 inches? I'm glad you asked. The "height" of the mouth piece is 6" (1/4 of the width, based on the sock heel model). When the sock is on a foot, and the heel is actually making a 3-dimensional heel, it makes a 90 degree angle. Then, the distance between the top and bottom edges of the heel piece is the hypotenuse of a right triangle, so it's 6 * &sqrt; 2, or about 8.5 inches.
+Why 8.5 inches? I'm glad you asked. The "height" of the mouth piece is 6" (1/4 of the width, based on the sock heel model). When the sock is on a foot, and the heel is actually making a 3-dimensional heel, it makes a 90 degree angle. Thus, the distance between the top and bottom edges of the heel piece is the hypotenuse of a right triangle, so it's 6" times the square root of 2, or about 8.5".
 
 Now, recall that the width of our mouth is exactly half of the total perimeter of our sphere, by design. The simplest way to fit that on our sphere, given our other constraints, is to make the edges of the mouth be geodesic arcs (so like longitude on a globe, but not like latitude) that go from one "pole" to the other "pole", if we put the axis through the side of our sphere
 
