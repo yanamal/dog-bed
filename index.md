@@ -417,10 +417,12 @@ Now you have a really long tube. Pull one end of the tube through the tube towar
 
 <details>
 <summary>
-  What? That doesn't look right
+  But that doesn't look like a donut!
 </summary>
   
-This shape may seem weird, since this doesn't make the right kind of donut. However, it will become right once we turn it inside out after sewing. Or rather, we will turn it right side out so that all the seams are facing the inside. So yes, by the way, you should probably have been folding all that stuff right-side in. But also none of that matters a whole lot, since these cushions won't really be visible in day-to-day use.
+This shape may seem weird, since this doesn't make the right kind of donut. However, it will become right once we turn it inside out after sewing. Or rather, we will turn it *right* side out so that all the seams are facing the inside. So yes, by the way, you should probably have been folding and sewing all that stuff with the right-sides facing each other. 
+
+But also none of that matters a whole lot, since these cushions won't really be visible in day-to-day use.
 
 </details>
 
@@ -429,7 +431,7 @@ This shape may seem weird, since this doesn't make the right kind of donut. Howe
   Be careful not to twist it (maybe)
 </summary>
 
-It's pretty easy to accidentally twist the fabric a full turn while you're pulling it through if you're just lining up the seam with itself at the end. THough if you do accidentally twist it, it doesn't actually make a huge difference in the final shape of the bed. It just looks a bit weird if you look closely enough.
+It's pretty easy to accidentally twist the fabric a full turn while you're pulling it through if you're just lining up the seam with itself at the end. Though if you do accidentally twist it, it doesn't actually make a huge difference in the final shape of the bed. It just looks a bit weird if you look closely enough.
 
 </details>
 
@@ -444,7 +446,7 @@ Turn the whole thing inside out. Now it looks like a flat donut!
 
 <img src="assets/images/cushions/donut/PXL_20240208_191213006.jpg" height="400"/>
 
-Stuff the donut! I was glad that I left the hole open for this one, because I ended up putting it a lot more stuffing once I saw how it looks in the bed.
+Stuff the donut! I was glad that I left the hole open after stuffing this one, because I ended up putting it a lot more stuffing once I saw how it looks in the bed.
 
 <img src="assets/images/cushions/donut/PXL_20240210_170124207.jpg" height="400"/>
 
@@ -460,7 +462,98 @@ Stuff the donut! I was glad that I left the hole open for this one, because I en
 
 &nbsp;
 
+<img src="assets/images/cushions/head/PXL_20240214_033406781.jpg" height="300"/>
+<img src="assets/images/cushions/head/PXL_20240208_235334811.jpg" height="300"/>
+
 </summary>
+
+The head shape works a lot like a baseball shape - two long pieces sewn together to make a sphere - but a bit simpler than an actual baseball shape.
+
+First, cut out two pieces that are 36" long and 12" wide, with  both ends completely rounded into circles. (The circles will have a a radius of 6"/diameter of 12", i.e. the full width of the piece.)
+
+<img src="assets/images/cushions/head/PXL_20240208_201914939.jpg" height="400"/>
+
+Before trying to attach the two pieces together, I find it helpful to mark the four major points on each piece: the top/bottom ends of the circles, and the middle of each side.
+
+To start putting the pieces together, put one piece on top of the other in a T-shape, with the "end" of one piece against the "middle" of the other.
+
+<img src="assets/images/cushions/head/PXL_20240208_202017410.jpg" height="400"/>
+
+Starting at that meeting point at the top of the T, go around and pin the two pieces together.
+
+<img src="assets/images/cushions/head/PXL_20240208_202551154.jpg" height="300"/>
+
+Go all the way around and sew together (but leave some of the seam open so we can turn it inside out and stuff it!). It may actually be helpful to pin and sew one quarter at a time, instead of trying to sew the whole thing together.
+
+<img src="assets/images/cushions/head/PXL_20240208_214007773.jpg" height="400"/>
+
+Turn your deflated baseball dohickey inside out. Now you can stuff it to make a sphere! (but you may actually want to hold off on that until you make the face/snout part)
+
+<img src="assets/images/cushions/head/PXL_20240208_235326257.jpg" height="300"/>
+
+<details markdown="1">
+<summary markdown="1">
+
+#### The face
+
+&nbsp;
+
+<img src="assets/images/cushions/head/PXL_20240214_033406781.jpg" height="300"/>
+
+</summary>
+
+Now it's time to decide what kind of animal you're making, and what kind of face/snout it will need. The outer fabric I chose reminded me of a sock monkey, so I went with a monkey design for this one. I've also made a pig and a sheep before, and their snouts were pretty different.
+
+A sock monkey's mouth is made from the heel of one of the socks. The heel has a relatively simple shape:
+
+<img src="assets/images/cushions/head/PXL_20240211_194458379.jpg" height="400"/>
+
+In particular, we can note that:
+
+- The heel's width is half of the sock's entire perimeter (for us, that's 12" * 2 = 24")
+- The height is about 1/4 of the width
+- The sides are angled at about 45 degrees
+
+So I drew out the appropriate shape on my lining fabric (the chalk was kind of faint, so I added dotted lines in the picture on top of the chalk outline):
+
+<img src="assets/images/cushions/head/PXL_20240211_190655436.jpg" height="300"/>
+
+However, since I'm not constrained by actually making my monkey out of a sock, I also rounded the diagonals before cutting it out and sewing it together:
+
+<img src="assets/images/cushions/head/PXL_20240211_194127169.jpg" height="300"/>
+
+I sketched out where the mouth will go on the head sphere:
+
+<img src="assets/images/cushions/head/PXL_20240213_172545233.jpg" height="300"/>
+
+<details markdown="1">
+<summary markdown="1"> Even more nerdy details on how exactly I decided where the mouth should go</summary>
+
+First, I usually arrange the head "sphere" so that one of the baseball pieces ends up being the bottom and two sides, and the other piece is the top and front/back.
+
+I decided that I want the bottom of the mouth to just touch the intersection between the two pieces; and also I wanted the height of the mouth (along the sphere) to be about 8.5 inches.
+
+<img src="assets/images/cushions/head/face-height.jpg" height="300"/>
+
+Why 8.5 inches? I'm glad you asked. The "height" of the mouth piece is 6" (1/4 of the width, based on the sock heel model). When the sock is on a foot, and the heel is actually making a 3-dimensional heel, it makes a 90 degree angle. Then, the distance between the top and bottom edges of the heel piece is the hypotenuse of a right triangle, so it's 6 * &Sqrt; 2, or about 8.5 inches.
+
+Now, recall that the width of our mouth is exactly half of the total perimeter of our sphere, by design. The simplest way to fit that on our sphere, given our other constraints, is to make the edges of the mouth be geodesic arcs (so like longitude on a globe, but not like latitude) that go from one "pole" to the other "pole", if we put the axis through the side of our sphere
+
+<img src="assets/images/cushions/head/face-globe.jpg" height="400"/>
+
+Note: my poles ended up being an inch or so lower than the centers of the circles which make up the rounded ends on the sides. This may or may not be counterintuitive, depending on what approximation we're using to treat our head shape as a sphere. In particular, consider the fact that if you actually drew out the four circles and/or drew the horizontal lines across where the rounded bits begin, they would be offset and would **not** line up perfectly.
+
+<img src="assets/images/cushions/head/circles-offset.jpg" height="300"/>
+
+</details>
+
+Now I just needed to sew the mouth on. I kept the mouth as a separate "compartment" with its own stuffing. If I had cut out the part of the head that went "underneath" the mouth, and stuffed everything together, the head would just become one roughly-spherical blob again instead of having a well-defined "snout" attached to a well-defined head.
+
+<img src="assets/images/cushions/head/PXL_20240214_033406781.jpg" height="300"/>
+
+</details>
+
+
 </details>
 
 
