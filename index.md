@@ -483,7 +483,7 @@ Starting at that meeting point at the top of the T, go around and pin the two pi
 
 <img src="assets/images/cushions/head/PXL_20240208_202551154.jpg" height="300"/>
 
-Go all the way around and sew together (but leave some of the seam open so we can turn it inside out and stuff it!). It may actually be helpful to pin and sew one quarter at a time, instead of trying to sew the whole thing together.
+Pin all the way around and sew together (but leave some of the seam open so we can turn it inside out and stuff it!). It may actually be easier to pin and sew one quarter at a time, instead of trying to pin the whole sphere shape together at once.
 
 <img src="assets/images/cushions/head/PXL_20240208_214007773.jpg" height="400"/>
 
@@ -504,9 +504,9 @@ Turn your deflated baseball dohickey inside out. Now you can stuff it to make a 
 
 Now it's time to decide what kind of animal you're making, and what kind of face/snout it will need. The outer fabric I chose reminded me of a sock monkey, so I went with a monkey design for this one. I've also made a pig and a sheep before, and their snouts were pretty different.
 
-A sock monkey's mouth is made from the heel of one of the socks. The heel has a relatively simple shape:
+In an actual sock monkey, the mouth is made from the heel of one of the socks. The heel has a relatively simple shape:
 
-<img src="assets/images/cushions/head/PXL_20240211_194458379.jpg" height="400"/>
+<img src="assets/images/cushions/head/PXL_20240211_194458379.jpg" height="300"/>
 
 In particular, we can note that:
 
@@ -527,7 +527,8 @@ I sketched out where the mouth will go on the head sphere:
 <img src="assets/images/cushions/head/PXL_20240213_172545233.jpg" height="300"/>
 
 <details markdown="1">
-<summary markdown="1"> Even more nerdy details on how exactly I decided where the mouth should go</summary>
+<summary> Even more nerdy details on how exactly I decided where the mouth should go 
+</summary>
 
 First, I usually arrange the head "sphere" so that one of the baseball pieces ends up being the bottom and two sides, and the other piece is the top and front/back.
 
@@ -535,7 +536,7 @@ I decided that I want the bottom of the mouth to just touch the intersection bet
 
 <img src="assets/images/cushions/head/face-height.jpg" height="300"/>
 
-Why 8.5 inches? I'm glad you asked. The "height" of the mouth piece is 6" (1/4 of the width, based on the sock heel model). When the sock is on a foot, and the heel is actually making a 3-dimensional heel, it makes a 90 degree angle. Then, the distance between the top and bottom edges of the heel piece is the hypotenuse of a right triangle, so it's 6 * &Sqrt; 2, or about 8.5 inches.
+Why 8.5 inches? I'm glad you asked. The "height" of the mouth piece is 6" (1/4 of the width, based on the sock heel model). When the sock is on a foot, and the heel is actually making a 3-dimensional heel, it makes a 90 degree angle. Then, the distance between the top and bottom edges of the heel piece is the hypotenuse of a right triangle, so it's 6 * &sqrt; 2, or about 8.5 inches.
 
 Now, recall that the width of our mouth is exactly half of the total perimeter of our sphere, by design. The simplest way to fit that on our sphere, given our other constraints, is to make the edges of the mouth be geodesic arcs (so like longitude on a globe, but not like latitude) that go from one "pole" to the other "pole", if we put the axis through the side of our sphere
 
