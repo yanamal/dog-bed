@@ -563,6 +563,8 @@ Now I just needed to sew the mouth on. I kept the mouth as a separate "compartme
 
 ## The outer shell
 
+<img src="assets/images/finished/PXL_20240221_193116436.jpg" width="75%"/>
+
 <details markdown="1">
 <summary markdown="1">
 
