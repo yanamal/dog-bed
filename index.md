@@ -47,7 +47,7 @@ This bed has two zippers so you can take out the three internal cushions and was
 
   I use whatever inexpensive stretchy fabric I can find.
   
-  I think using stretchy fabric here helps achieve the "overstuffed" look for the bed. When the lining fabric stretches, the stuffing is then less constricted by it, and still has a chance to push directly against the outside of the bed.
+  I think using stretchy fabric here helps achieve the "overstuffed" look and feel for the bed. When the lining fabric stretches, the stuffing is then less constricted by it, and still has a chance to push directly against the outside of the bed. I'm pretty sure dogs like the "overstuffed" feel of the bed, too.
 
   I like it when the fabric has a woven-in or knitted-in striped or rectangular pattern, like the fabric I used in this case. It's a super helpful shortcut for measuring and cutting the right shape, since I can just cut along the stripe! Especially when I'm trying to cut out really big rectangular pieces in super stretchy fabric which is really hard to measure consistently as it stretches!
   
@@ -97,7 +97,7 @@ This bed has two zippers so you can take out the three internal cushions and was
 
   You can get "Minky swirl/rosette fabric" from Joann and sometimes Michael's. I've bought it from Joanne for another dog bed project and it was quite nice, but I would probably only buy it there when it's on sale. I found [a pretty inexpensive option at Big Z Fabrics](https://bigzfabric.com/collections/minky-rose-rosette-floral-baby-soft-fabric-hug-z-reg) - it seems like the same stuff from their pictures and videos. They also have other interesting "Minky" options to explore.
 
-  Walmart has some pre-cut options they call "Minky Dot Fleece", "Plush Coral Fleece", "Chevron Fleece" and other similar names. I often see specific colors on sale online, but they tend to be full-price in store (though full-price is still pretty reasonable). These usually come pre-cut to 1.5 yards, so you'd have to get two, but that's perfectly workable. Maybe you could even go for two colors and make a colorblocked bed!
+  Walmart has some pre-cut options they call "Minky Dot Fleece", "Plush Coral Fleece", "Chevron Fleece" and other similar names. I often see specific colors on sale online, but they tend to be full-price in store (though full-price is still pretty reasonable). These usually come pre-cut to 1.5 yards, so you'd have to get two, but that's perfectly workable. Maybe you could even go for two colors and make a colorblocked bed! Some of the varieties do have some stretch to them, though, so watch out for that.
 
   Finally, you can try looking for inexpensive minky/fleece throw blankets and cut them up to use as fabric. I think this is only cost-effective if you shop around aggressively and look for sales, though. For reference, I bought two 60" by 80" cow print blankets for $15 each on Amazon (I'm going to use them to make a cow bed for my cow print puppy!). That's roughly equivalent to 4 yards of fabric, depending on the width of the fabric you'd buy otherwise.
 
@@ -557,6 +557,74 @@ Now I just needed to sew the mouth on. I kept the mouth as a separate "compartme
 <img src="assets/images/cushions/head/PXL_20240214_033406781.jpg" height="300"/>
 
 </details>
+
+
+</details>
+
+## The outer shell
+
+<details markdown="1">
+<summary markdown="1">
+
+### Step 1. The main bed surface and sides
+
+<img src="assets/images/shell/surface-sides/PXL_20240210_045331325.jpg" height="300"/>
+  
+</summary>
+
+First, we'll make the actual bed surface and the sides which will eventually turn into the donut. We'll also attach the bottom side of the long separating zipper.
+
+Take out the fabric you're using for the main bed, and convince your dogs to get off of it so you can make their bed.
+
+<img src="assets/images/shell/surface-sides/PXL_20240208_225110695.MP.jpg" height="400"/>
+
+Cut out a piece of fabric that's the same dimensions as your bottom cushion (about 36" by 24 " with rounded corners). 
+
+<details markdown="1">
+<summary markdown="1"> Should I make the outer pieces slightly bigger?
+</summary>
+  
+If you want, you could add a couple of inches to the overall dimensions to account for the fact that you've stuffed a lot of stuffing into the cushion. I sometimes measure the actual cushion to see how "fat" it's gotten both width-wise and length-wise. But in that case I still subtract an inch or two from each dimension, because I don't want the cushion to be loose in there; I actually want it to be somewhat squished and make the bed look and feel overstuffed.
+
+In this case, I ended up adding a couple of inches to the width, because that's what I could fit into my plan for the 2 yards of fabric I had. So this piece is actually 26" by 36".
+
+Interestingly, when I was cutting out the bottom (non-slip) piece, it ended up being more convenient to add a couple of inches to the length. So that piece was 24" by 38" - same perimeter as the top piece, but different shape. This does make the final shape of the bed a bit non-flat. Notably, the back and front of the bed tend to rise up a little bit. But it's not super critical and the couple of inches don't make a huge difference on this scale of things.
+
+</details>
+
+<img src="assets/images/shell/surface-sides/PXL_20240209_005208341.jpg" height="400"/>
+
+Convince your dogs to get off your fabric **again**.
+
+<img src="assets/images/shell/surface-sides/PXL_20240208_233948141.MP.jpg" height="300"/>
+
+Cut out a looong rectangular piece the same shape as the fabric you used for the donut cushion (so 24" by somewhere between 100-120"). Or you can do what I did and cut out two pieces that add up to that length.
+
+<img src="assets/images/shell/surface-sides/PXL_20240208_231355194.jpg" height="400"/>
+
+Pin and sew the short sides together so it makes a large circle or tube (depending on your perspective).
+
+<img src="assets/images/shell/surface-sides/PXL_20240208_231905863.MP.jpg" height="400"/>
+<img src="assets/images/shell/surface-sides/PXL_20240208_233125061.jpg" height="400"/>
+
+Now we attach together the surface, the sides, and the long separating zipper. This is one of the tricky and potentially confusing parts.
+
+<img src="assets/images/shell/surface-sides/PXL_20240209_024745818.jpg" height="300"/>
+
+Pin one edge of the tube along the edge of the bed surface piece, with the "right" sides facing each other and the "wrong" sides facing out. The zipper then goes on top of the tube piece, along the edge. It goes on the wrong side of the tube, but the zipper should be **right** side up (with the zipper pull facing out). If you got a zipper with a reversible slider, that's one less thing to get wrong, since both sides of the zipper are the right side!
+
+I usually pin the two fabric pieces together first, then go around and pin the zipper on top, removing the original pins as I put new ones in that hold together all 3 layers. If I'm using stretchy fabric, I also use a heck of a lot of basting glue when I'm pinning the zipper on.
+
+This is what the zipper ends will look like after you sew everything together:
+
+<img src="assets/images/shell/surface-sides/PXL_20240210_045400038.jpg" height="400"/>
+<img src="assets/images/shell/surface-sides/PXL_20240210_180018611.jpg" height="400"/>
+
+Notice that the end with the zipper pull is right up against the edge, and the other end (with the separating part) slips behind it, a little bit higher on the tube fabric.
+
+And here is what it'll look like once it's all sewn together:
+
+<img src="assets/images/shell/surface-sides/PXL_20240210_045331325.jpg" height="300"/>
 
 
 </details>
