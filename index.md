@@ -20,6 +20,10 @@ I organized this tutorial in a hierarchical way, so you can get an overview befo
 
 Whenever you see one of these boxes with a triangle at the top, you can (and probably should) click to expand the contents. Click again to collapse it.
 
+<img src="assets/images/clickme.png" width="400"/>
+
+You can also click on any image to enlarge it, and click again to shrink it back to its normal state.
+
 If you find any problems or have questions, feel free to [file an issue](https://github.com/yanamal/dog-bed/issues), since this is hosted on GitHub! Or let me know in some other way.
 
 </details>
