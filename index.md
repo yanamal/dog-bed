@@ -751,6 +751,111 @@ The paws don't make a lot of sense without the head, but the dogs can help fix t
 
 </details>
 
+<details markdown="1">
+<summary markdown="1">
+
+### Step 4. The head
+
+</summary>
+
+OK, let's finish this!
+
+First, cut out **one** "half-baseball" shape that is the same as the two "half-baseball" shapes we used to make the head cushion. This piece will make up the bottom and sides of the head. In addition, you will need another piece that's the same width (12") but much shorter. This piece  will go from the top of the head down to the face, and stop at the snout/mouth. The exact length and shape will depend on your snout shape and also how much fabric you have left to play with. I believe mine ended up being about 12" long, with a very subtly concave curve where it meets the snout.
+
+<img src="assets/images/shell/head/PXL_20240215_180030879.jpg" height="300"/>
+
+This is how these two pieces should go together, and where they will end up on the head:
+
+<img src="assets/images/shell/head/PXL_20240215_183434344.MP.jpg" height="300"/>
+
+Notice that for my case, the bottom/sides piece that I just made actually overlaps the monkey's mouth a bit. I sketched out approximately where the overlap is so that I can cut it out:
+
+<img src="assets/images/shell/head/PXL_20240215_180212095.jpg" height="300"/>
+
+Then I made the mouth (the exact same way that I did for the cushion), and sewed it on. I did end up rounding the corners of the mouth a bit when I actually cut the shape out, though:
+
+<img src="assets/images/shell/head/PXL_20240219_033354212.jpg" height="300"/>
+
+To complete the face, I added some eyes, a red mouth, and simple nostrils, all using a zig-zag stitch. Once again, I used a fair amount of basting glue to hold the patches in place while I sew, so they actually still lay flat by the time I'm done sewing.
+
+<img src="assets/images/shell/head/PXL_20240215_223549350.jpg" height="300"/>
+
+Tip: you do probably want to finish the face details before you start sewing the head onto the body.  It's much easier when you're just working with the head piece hanging off your sewing machine, not the whole freaking dog bed. It only took me 3 beds to (mostly) learn that.
+
+Now we can start attaching the head!
+
+Unzip the long separating zipper and take out the donut cushion. Then cut out a circle 14" in diameter (7" radius). It should be about 1" away from the "top" edge of the fabric, and positioned in the middle of one of the shorter sides of the bed. I prefer to use the side that *doesn't* have the short zipper on it. That way, the zipper ends up being on the "butt". I think that makes it easier to remove and replace the bottom cushion.
+
+<details>
+<summary> Why does this "neck hole" need to be so big?
+</summary>
+
+This hole needs to be big enough so that the whole entire head cushion can pop in and out through it without any problem. The 14" diameter makes it slightly smaller than the actual head diameter, so it will go in with just a little bit of squishing. You can certainly try a smaller hole, since the head is quite squishable. But it may make it more of a pain to take the bed apart for laundering and put it back together.
+  
+</details>
+
+<img src="assets/images/shell/head/PXL_20240215_230123728.jpg" height="300"/>
+
+Make sure to cut the circle out where I cut it, not where I originally marked it (on the wrong end of the tube). For some reason, I try to do that nearly every time. Usually I catch myself in time. If you get it wrong, you should be able to just kinda sew that circle back on, and then cut out the (intersecting) correct circle. But it's simpler to just not get it wrong.
+
+Now, attach the rear-bottom edge of the head to the side of the circle that will end up on the bottom (so the side really close to the zipper)
+
+- Make sure to line up the center of the head with the bottom of the circle
+- Only attach and sew on the straight part of the head fabric; stop once the edge starts curving away into those rounded ends.
+- This should cover roughly, but not exactly, half of the circle shape.
+
+<img src="assets/images/shell/head/PXL_20240215_230556880.MP.jpg" height="300"/>
+
+Once you've sewn the bottom of the head onto the body, the bed is just missing one more piece of fabric that will bring it all together
+
+<img src="assets/images/shell/head/PXL_20240217_202359232.jpg" height="300"/>
+
+For this piece, I prefer to actually measure the dimensions of the hole with all of the cushions in place, to get an accurate representation of how everything actually fits together. Then I make the remaining piece using those dimensions.
+
+In this case, I basically only had one piece of fabric left that was 12" in one dimension, so I clipped it in place to make sure it was big enough, and *then* measured the resulting dimensions.
+
+<img src="assets/images/shell/head/PXL_20240217_202649202.jpg" height="300"/>
+<img src="assets/images/shell/head/PXL_20240217_202702947.jpg" height="300"/>
+<img src="assets/images/shell/head/PXL_20240217_202717170.jpg" height="300"/>
+
+As you can see, I got 21" in width, 7" from the top of the head to the neck crease, and 5" from the neck crease to the body.
+
+Use the dimensions you get to make this mushroom-like shape:
+
+<img src="assets/images/shell/head/PXL_20240218_011623642.jpg" height="300"/>
+
+And this is how it should fit into the hole (but right-side up, obviously):
+
+<img src="assets/images/shell/head/PXL_20240218_011747452.jpg" height="300"/>
+
+Once that's in, the bed is basically done!
+
+<img src="assets/images/shell/head/PXL_20240218_053633987.jpg" height="300"/>
+
+... Oh, right, the monkey probably needs ears.
+
+I kinda made the ears up as I went along. I only had a couple of scraps of fabric left. And I I wanted to make the ears so that the "wrong" side of the fabric would show up as the inside of the ears, since I thought it looked pretty good and was an appropriate color. 
+
+Each ear started out as a long and narrow rectangle of the main bed fabric. I used this "3D mesh spacer fabric" I had to reinforce the edges and keep them from drooping too much. I rolled up strips of this spacer fabric, and then rolled the main ear fabric around it and sewed it in. (Side note: in retrospect, this is probably the one place where hand-sewing things would have been way easier).
+
+<img src="assets/images/shell/head/PXL_20240216_021350156.jpg" height="300"/>
+<img src="assets/images/shell/head/PXL_20240216_015451366.MP.jpg" height="300"/>
+
+Then I realized that I wanted the ears to be ears-shaped.  Like I said, I was making it up as I went. So I cut out roughly the right curve (making sure that the length of the curve matched the length of the edge tube that was left sticking out) and sewed that on.
+
+<img src="assets/images/shell/head/PXL_20240218_054734925.jpg" height="300"/>
+<img src="assets/images/shell/head/PXL_20240219_030733101.jpg" height="300"/>
+
+Now I could attach the ears to the head. I marked and cut a slit in the head where I wanted the ears to go, and then sewed it back together with the ear in the middle of the slit. (look for the clips and pins in the image below to see where I did that)
+
+<img src="assets/images/shell/head/PXL_20240219_033343379.MP.jpg" height="300"/>
+
+And now it is finally done! Time to re-assemble the bed and test it out!
+
+</details>
+
+
+  
 <script>
   for(i of document.getElementsByTagName('img')) {
   i.addEventListener('click', function (e) {
