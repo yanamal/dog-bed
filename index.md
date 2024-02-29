@@ -32,11 +32,17 @@ If you find any problems or have questions, feel free to [file an issue](https:/
 
 This bed has two zippers so you can take out the three internal cushions and wash the outer shell!
 
+
+<details markdown="1">
+<summary markdown="1">
+
 ## Materials
 
 ![materials](assets/images/materials/PXL_20240207_230657895.jpg)
 ![materials](assets/images/materials/PXL_20240209_174101749.jpg)
 ![materials](assets/images/materials/PXL_20240207_231021546.MP.jpg)
+
+</summary>
 
 <details markdown="1">
   <summary markdown="1">
@@ -290,10 +296,17 @@ I also used something that I'm pretty sure is called "3D mesh spacer fabric" ins
   
 </details>
 
+</details>
+
+
+<details markdown="1">
+<summary markdown="1">
 
 ## The inner cushions
 
 ![cushions](assets/images/cushions/PXL_20240210_165817127.jpg)
+
+</summary>
 
 <details markdown="1">
 <summary markdown="1">
@@ -561,9 +574,17 @@ Now I just needed to sew the mouth on. I kept the mouth as a separate "compartme
 
 </details>
 
+</details>
+
+
+<details markdown="1">
+<summary markdown="1">
+
 ## The outer shell
 
 <img src="assets/images/shell/PXL_20240228_043041008.jpg"/>
+
+</summary>
 
 <details markdown="1">
 <summary markdown="1">
@@ -740,7 +761,7 @@ Now you can flip the bed right-side up (if you convince your puppy to get off fo
 
 <img src="assets/images/shell/paws-top/PXL_20240215_051852968.jpg" height="400"/>
 
-I mean, the bed is ready and usable. The puppy and his mom seem to really be enjoying it as-is.
+I mean, the bed is ready and usable. The puppy and [his mom](https://www.shelterluv.com/embed/animal/66058274) seem to really be enjoying it as-is.
 
 <img src="assets/images/shell/paws-top/PXL_20240215_073224310.MP.jpg" height="300"/>
 <img src="assets/images/shell/paws-top/PXL_20240215_073316206.MP.jpg" height="300"/>
@@ -755,6 +776,8 @@ The paws don't make a lot of sense without the head, but the dogs can help fix t
 <summary markdown="1">
 
 ### Step 4. The head
+
+<img src="assets/images/shell/head/PXL_20240219_054512474.jpg" height="300"/>
 
 </summary>
 
@@ -814,9 +837,9 @@ For this piece, I prefer to actually measure the dimensions of the hole with all
 
 In this case, I basically only had one piece of fabric left that was 12" in one dimension, so I clipped it in place to make sure it was big enough, and *then* measured the resulting dimensions.
 
-<img src="assets/images/shell/head/PXL_20240217_202649202.jpg" height="300"/>
-<img src="assets/images/shell/head/PXL_20240217_202702947.jpg" height="300"/>
-<img src="assets/images/shell/head/PXL_20240217_202717170.jpg" height="300"/>
+<img src="assets/images/shell/head/PXL_20240217_202649202.jpg" height="250"/>
+<img src="assets/images/shell/head/PXL_20240217_202702947.jpg" height="250"/>
+<img src="assets/images/shell/head/PXL_20240217_202717170.jpg" height="250"/>
 
 As you can see, I got 21" in width, 7" from the top of the head to the neck crease, and 5" from the neck crease to the body.
 
@@ -854,6 +877,12 @@ And now it is finally done! Time to re-assemble the bed and test it out!
 
 </details>
 
+</details>
+
+One of the dogs has a more *special* relationship with the monkey than the others.
+
+<img src="assets/images/finished/PXL_20240222_182623548.jpg" height="400"/> <img src="assets/images/finished/PXL_20240221_035102470.MP.jpg" height="400"/> 
+<img src="assets/images/finished/PXL_20240221_193116436.jpg" height="400"/> <img src="assets/images/finished/PXL_20240228_052943906.jpg" height="400"/>
 
   
 <script>
