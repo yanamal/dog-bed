@@ -284,7 +284,7 @@ Or adopt any dog - shelters are overflowing with them!
   
   </summary>
 
-For this bed, I ended up using some white fabric for the face and feet, scraps of black fabric for the eyes, and scraps of red fabric for the mouth.
+For this bed, I ended up using some white fabric for the face and paws, scraps of black fabric for the eyes, and scraps of red fabric for the mouth.
 
 I also used something that I'm pretty sure is called "3D mesh spacer fabric" inside the ear edges to keep the ears from being too floppy. I think it's similar to, but different from, "foam stabilizer" fabrics that people use to make fabric baskets and other things that need to hold their shape.
   
@@ -563,7 +563,7 @@ Now I just needed to sew the mouth on. I kept the mouth as a separate "compartme
 
 ## The outer shell
 
-<img src="assets/images/finished/PXL_20240221_193116436.jpg" width="75%"/>
+<img src="assets/images/shell/PXL_20240228_043041008.jpg"/>
 
 <details markdown="1">
 <summary markdown="1">
@@ -616,6 +616,8 @@ Now we attach together the surface, the sides, and the long separating zipper. T
 Pin one edge of the tube along the edge of the bed surface piece, with the "right" sides facing each other and the "wrong" sides facing out. The zipper then goes on top of the tube piece, along the edge. It goes on the wrong side of the tube, but the zipper should be **right** side up (with the zipper pull facing out). If you got a zipper with a reversible slider, that's one less thing to get wrong, since both sides of the zipper are the right side!
 
 I usually pin the two fabric pieces together first, then go around and pin the zipper on top, removing the original pins as I put new ones in that hold together all 3 layers. If I'm using stretchy fabric, I also use a heck of a lot of basting glue when I'm pinning the zipper on.
+
+I find that the best place for the end of the zipper is in the middle of one of the longer sides of the bed. That way it's out of the way of other stuff like paws, the bottom zipper, head, etc.
 
 This is what the zipper ends will look like after you sew everything together:
 
@@ -682,6 +684,70 @@ You can even try draping the side fabric over the donut cushion to get the appro
 <img src="assets/images/shell/bottom/PXL_20240211_023423740.jpg" height="250"/>
 <img src="assets/images/shell/bottom/PXL_20240211_023631556.jpg" height="250"/>
 
+
+</details>
+
+
+<details markdown="1">
+<summary markdown="1">
+
+### Step 3. The paws and top half of the long zipper
+
+<img src="assets/images/shell/paws-top/PXL_20240215_051055581.MP.jpg" height="300"/>
+
+</summary>
+
+Now we'll attach the other half of the long separating zipper to the top edge of the side tube. When the zipper is closed, this will make the donut shape. Also, the little paws get sewn on at the same time under the zipper.
+
+We'll start by making the paws. They are basically just a rectanlge shape that's rounded at the top. You cut out two of these paw shapes (separately or "stuck together" side by side like I did), sew them together, and put a tiny bit of stuffing in. As you can see below, I actually made my paws out of two different pieces, so they would have white tips like a sock monkey is supposed to.
+
+<img src="assets/images/shell/paws-top/PXL_20240214_185814138.jpg" height="300"/>
+<img src="assets/images/shell/paws-top/PXL_20240214_221353006.jpg" height="300"/>
+
+I made my paws about 4" wide and 6: long, but I think this is actually too small. They barely stick out from under the bed enough to actually be seen. (On the other hand, the dogs are less tempted to try to chew them off...) 
+
+Now you can pin the zipper in place at the top edge of the tube, with a paw pinned in between the zipper and tube approximately where each of the bed corners is. My process is usually something like this:
+
+1. Start with the zipper closed, and mark and/or pin the top of the tube to the zipper in 4-5 critical places: the start and end of the zipper, and somewhere around the middle of each side of the bed. 
+2. Mark where the feet will go (in the middle of each of the rounded corners of the bed base), but don't bother trying to attach them yet
+3. Unzip the zipper fully, and start pinning it in place properly. Don't forget the feet!
+
+This is the proper orientation of the zipper (at least the way I do it) - note that the bed is upside-down here:
+
+<img src="assets/images/shell/paws-top/PXL_20240228_043859921.MP.jpg" height="300"/>
+
+Specifically, make sure that:
+
+- The zipper gets sewn onto the "right" side of the tube
+- Where the zipper overlaps itself, The separating end is closest to the edge, and the other end is tucked in under it
+  - **This is the opposite of what we did on the other end** - in large part because on the other end, we were attaching it to the "wrong" side of the fabric so the final orientation is reversed
+
+And here is what it will look like when you start zipping it together:
+
+<img src="assets/images/shell/paws-top/PXL_20240228_043940686.jpg" height="300"/>
+
+Alright! Now you're ready to put the cushions in and try it out!
+
+I always put the bottom cushion in first, because it would be even more annoying to squeeze it in if other cushions were already in the way. 
+
+<img src="assets/images/shell/paws-top/PXL_20240215_051055581.MP.jpg" height="300"/>
+
+Then flip the bed upside-down, place the donut cushion roughly where it's supposed to go, and start zipping around it while stuffing it into place.
+
+<img src="assets/images/shell/paws-top/PXL_20240215_051652757.jpg" height="400"/>
+
+Now you can flip the bed right-side up (if you convince your puppy to get off for a second), take a breather, and start considering whether you really need to carry on with making the head.
+
+<img src="assets/images/shell/paws-top/PXL_20240215_051852968.jpg" height="400"/>
+
+I mean, the bed is ready and usable. The puppy and his mom seem to really be enjoying it as-is.
+
+<img src="assets/images/shell/paws-top/PXL_20240215_073224310.MP.jpg" height="300"/>
+<img src="assets/images/shell/paws-top/PXL_20240215_073316206.MP.jpg" height="300"/>
+
+The paws don't make a lot of sense without the head, but the dogs can help fix that.
+
+<img src="assets/images/shell/paws-top/PXL_20240215_073531469.MP.jpg" height="300"/>
 
 </details>
 
