@@ -631,6 +631,59 @@ And here is what it'll look like once it's all sewn together:
 
 </details>
 
+<details markdown="1">
+<summary markdown="1">
+
+### Step 2. The non-slip bottom
+
+<img src="assets/images/shell/bottom/PXL_20240211_022705727.jpg" height="300"/>
+
+</summary>
+
+Now we can make the non-slip bottom. It actually gets sewn on right over the seam we just made in the previous step. So if you're really ambitious, you could try combining the two steps and sewing all 4 things together at once. I've never attempted this because I'm pretty sure I would immediately make a huge mess and everything would fall apart.
+
+Cut out a piece of the non-slip fabric that's the same dimensions as your bed surface piece (so 36" by 24" or a bit bigger, with rounded corners).
+
+<img src="assets/images/shell/bottom/PXL_20240210_172923366.MP.jpg" height="300"/>
+
+Pin it to the bed we have so far so that **everything that should be on the outside is on the inside**: 
+
+- the "right" side of the bed surface and the zipper should be facing up
+- the sides/donut part of the bed are all tucked in inside
+- the non-slip bottom piece should be with the non-slip part facing down.
+
+This seems really weird, but we'll be turing it right-side out after we sew it on.
+
+<img src="assets/images/shell/bottom/PXL_20240210_182529518.jpg" height="300"/>
+<img src="assets/images/shell/bottom/PXL_20240210_182546770.jpg" height="300"/>
+
+Sew it in place, **but leave one end open for the zipper**.
+
+Then sew on the zipper in the usual way, with one side of the zipper attached to each of the pieces. Make sure that the zipper pull is facing inward. You may also want to make sure the zipper is partially unzipped before you finish sewing everything together, otherwise it'll be a real pain to unzip and turn everything right-side out.
+
+<img src="assets/images/shell/bottom/PXL_20240211_020637151.MP.jpg" height="300"/>
+
+It should look something like this when you're done:
+
+<img src="assets/images/shell/bottom/PXL_20240211_022558732.jpg" height="400"/>
+
+Explain to your puppy that it's not "too small", it's just not ready for use yet.
+
+<img src="assets/images/shell/bottom/PXL_20240211_022528577.MP.jpg" height="400"/>
+
+You can now turn it right-side out through the zipper you just attached. The bottom part of the bed is now ready to hold the bottom cushion!
+
+<img src="assets/images/shell/bottom/PXL_20240211_022705727.jpg" height="300"/>
+<img src="assets/images/shell/bottom/PXL_20240211_023001193.MP.jpg" height="300"/>
+
+You can even try draping the side fabric over the donut cushion to get the approximate bed shape. Your puppy should now be slighyly less concerned.
+
+<img src="assets/images/shell/bottom/PXL_20240211_023305466.MP.jpg" height="250"/>
+<img src="assets/images/shell/bottom/PXL_20240211_023423740.jpg" height="250"/>
+<img src="assets/images/shell/bottom/PXL_20240211_023631556.jpg" height="250"/>
+
+
+</details>
 
 <script>
   for(i of document.getElementsByTagName('img')) {
